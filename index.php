@@ -21,6 +21,6 @@ class Car {
 
 $bmw = new Car();
 
-$bmw->setModel('BMW-M5 Competetion');
+$bmw->setModel('BMW M5 Competetion');
 echo $bmw->model;
 
